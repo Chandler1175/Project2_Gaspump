@@ -7,16 +7,10 @@
 
 
 
-//-----------------------------------------------
-//				CS 215 - Fall 2020
-//					Project 1
-//-----------------------------------------------
+
 // Author: Chandler Hamilton
-// Section: 005
 // Project 1 gas pump simulation.
-//
-//I recieved help from a youtube channel called code the universe and the website stack overflow. 
-// to get help with sytanx of rand, sleep and forloops. I also reviewed the powerpoints on the website.
+
 
 
 #include <iomanip>;
